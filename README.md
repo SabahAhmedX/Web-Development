@@ -1,50 +1,83 @@
-# Team Task & Project Management System
+# Task Manager
 
-This project aims to solve the common challenges faced by teams in tracking tasks and projects effectively. It provides a centralized platform to manage projects, assign tasks, monitor progress, and enhance team collaboration with clear visibility and communication tools.
-
----
-
-## 📝 Project Overview
-
-Teams often struggle with tracking who is working on what, leading to missed deadlines and poor collaboration. Progress updates are scattered across different platforms, making communication inefficient. This system addresses these issues by offering a unified solution with task management, commenting, attachments, notifications, and reporting.
+A centralized task and project management system designed to improve team collaboration, track progress efficiently, and provide clear visibility on tasks and projects.
 
 ---
 
-## 🎯 Objectives
+## Team Members
+
+| Name                     | ID       |
+|--------------------------|----------|
+| Reem Rafik Nagib         | 22010342 |
+| Sabah Ahmed Mohammed      | 22010356 |
+| Salma Fahmy Hassan       | 22010346 |
+| Rahma Ramadan Hassan     | 22010334 |
+| Kenzy Ashraf Abd-Elshafy | 22011604 |
+
+---
+
+## Supervision
+
+- Dr. Mohamed Khamis  
+- Eng. Hamdy
+
+---
+
+## Problem Statement
+
+Modern teams often struggle with fragmented task management across multiple platforms, leading to:
+
+- Lack of centralized task tracking  
+- Missed deadlines  
+- Poor collaboration and scattered communication  
+- Limited managerial visibility on team productivity  
+- Inefficient communication causing confusion and duplicated work  
+
+This system aims to solve these challenges by providing a unified platform for managing projects, tasks, communication, and reporting.
+
+---
+
+## Objectives
 
 - Create and assign tasks to team members  
-- Track task status through different stages: To-Do, In Progress, Done  
-- Implement a comment system for task-related discussions  
-- Attach files to tasks for better context and documentation  
-- Display a productivity dashboard with relevant statistics and charts  
-- Send notifications for overdue or upcoming tasks  
-- Generate comprehensive team performance reports
+- Track task status (To-Do, In Progress, Done)  
+- Comment system for task discussions  
+- File attachments to tasks  
+- Productivity dashboard with charts and statistics  
+- Notifications for overdue or updated tasks  
+- Generate team performance reports
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
-- User Authentication (Team Members, Managers)  
+- User authentication (Team Members, Managers)  
 - Project creation and management  
-- Task assignment with priority levels  
-- Real-time status tracking and updates  
-- Commenting system and file attachments on tasks  
-- Interactive dashboard with charts and productivity statistics  
-- Notification system for task deadlines and alerts  
+- Task assignment with priorities  
+- Status tracking and updates  
+- Comments and file attachments on tasks  
+- Dashboard with charts and statistics  
+- Notification system
 
 ---
 
-## 📚 Course Information
+## System Requirements
 
-- **Course:** Web Development  
-- **Instructor:** Dr. Mohamed  
-- **Academic Year:** Fall 2025 / 2026  
-- **Supervisors:** Eng. Hamdy & Eng. Hossam  
-- **Institution:** Alexandria University, Faculty of Computers and Data Science, Data Science Department
+- SQL Server for database management  
+- Secure user authentication and authorization  
+- Responsive and user-friendly interface  
+- Frontend-backend integration for real-time updates  
+- Client-side validation and testing
 
 ---
 
-## ⚙️ How to Run the Project
+## Database Schema
+
+For the detailed database schema and relationships, see the [Database Diagram](https://app.diagrams.net/#G1YC23UiOxhoJGiiNivqFknkAV5hAFpC_0#%7B%22pageId%22%3A%22rufURPl3TG2d5ByY29Tp%22%7D).
+
+---
+
+## Getting Started
 
 1. **Clone the repository:**  
    ```bash
