@@ -8,8 +8,8 @@ A centralized task and project management system designed to improve team collab
 
 | Name                     | ID       |
 |--------------------------|----------|
+| Sabah Ahmed Mohammed     | 22010356 |
 | Reem Rafik Nagib         | 22010342 |
-| Sabah Ahmed Mohammed      | 22010356 |
 | Salma Fahmy Hassan       | 22010346 |
 | Rahma Ramadan Hassan     | 22010334 |
 | Kenzy Ashraf Abd-Elshafy | 22011604 |
@@ -76,10 +76,3 @@ This system aims to solve these challenges by providing a unified platform for m
 For the detailed database schema and relationships, see the [Database Diagram](https://app.diagrams.net/#G1YC23UiOxhoJGiiNivqFknkAV5hAFpC_0#%7B%22pageId%22%3A%22rufURPl3TG2d5ByY29Tp%22%7D).
 
 ---
-
-## Getting Started
-
-1. **Clone the repository:**  
-   ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
